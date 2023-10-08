@@ -1,6 +1,10 @@
 # flask-chatgpt
 用flask写的chatgpt调用 简单页面
 
+这玩意有啥用？就是你有一个chatgpt账号，想给国内的朋友用，那么你可以用这个玩玩。
+
+或者你想要对国内人收费使用，那么你可以用它来改造。
+
 python要 3.9以上
 
 pip 安装好 openai 和 flask 就能运行了
