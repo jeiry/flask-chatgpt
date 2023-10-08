@@ -1,6 +1,12 @@
 # flask-chatgpt
 用flask写的chatgpt调用 简单页面
 
+python要 3.9以上
+
+pip 安装好 openai 和 flask 就能运行了
+
+要是你一点基础都没有就别折腾
+
 ### 不含key 有key的人可以自己玩玩
 
 python项目 flask框架
