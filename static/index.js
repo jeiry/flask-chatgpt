@@ -76,6 +76,7 @@ new Vue({
                         }else{
                             that.isloading = false
                             if(that.completion_text != ''){
+                                that.completion_text = res.completion_text
                                 that.list.push({"role": "assistant","content": that.completion_text})
                             }
                             that.completion_text = ""
